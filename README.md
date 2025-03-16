@@ -26,7 +26,7 @@ Grid-based Layout for easy arrangement.
 
 Clone the Repository:
 
-git clone https://github.com/your-username/Puzzle-Design.git
+git clone: (https://github.com/Harsh-TG/Puzzle_Pattern.git)
 cd Puzzle-Design
 
 ### Run the Java Program:
