@@ -14,6 +14,7 @@ Ensure that the edges match with adjacent pieces.
 
 Once completed, the puzzle is solved!
 
+
 ## ⚙️ Features
 
 Interactive UI with draggable and rotatable pieces.
